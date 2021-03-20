@@ -1,0 +1,7 @@
+.perspective {
+	height: 40vh;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	background: hsl(195deg, 20%, 86%);
+}
