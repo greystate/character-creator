@@ -12,6 +12,8 @@
   margin-bottom: 32px;
 	
 	max-width: 50%;
+	white-space: nowrap;
+	overflow: scroll;
 }
 
 .title {
